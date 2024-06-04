@@ -24,6 +24,6 @@ https://github.com/0xWaleed/typeit-nvim/assets/20063083/5435e470-52da-4900-bb7c-
 ## API
 ### `typeit(opt)`
 * `opt.delay` is the delay in between each char in milliseconds
-* `opt.content` the content to be writter, when nil, it will use the current buffer content
+* `opt.content` the content to be written, when nil, it will fallback to the current buffer's content
 
 
